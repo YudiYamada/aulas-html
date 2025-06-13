@@ -29,7 +29,7 @@ HTML é a base da web, e seu poder aumenta quando combinado com CSS (para estili
 
 ---
 
-# 🛠️ **Autor:** Yudi
+# 🛠️ **Autor:** Yudi Yamada
 
 Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação.  
 Você pode me encontrar e acompanhar meus projetos nos links abaixo:
