@@ -34,7 +34,7 @@ HTML é a base da web, e seu poder aumenta quando combinado com CSS (para estili
 Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação.  
 Você pode me encontrar e acompanhar meus projetos nos links abaixo:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-usuario/)
-- [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/seu-usuario/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yudi-yamada-0a10181b9/)
+- [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/YudiYamada)
 
 Sinta-se à vontade para se conectar e explorar meus trabalhos! 🚀
